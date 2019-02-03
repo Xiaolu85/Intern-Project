@@ -1,0 +1,397 @@
+{
+"nodes": [
+{
+"id": "kai.pan.kpan@gmail.com",
+"group": 1
+},
+{
+"id": "Hugo Yen",
+"group": 1
+},
+{
+"id": "Chenxing Wu",
+"group": 1
+},
+{
+"id": "Lillian",
+"group": 1
+},
+{
+"id": "Chaoran Wang",
+"group": 1
+},
+{
+"id": "huangminzh@gmail.com",
+"group": 1
+},
+{
+"id": "hayfordant@google.com",
+"group": 1
+},
+{
+"id": "Lina Vera Vega",
+"group": 1
+},
+{
+"id": "shuoyan3@illinois.edu",
+"group": 1
+},
+{
+"id": "tyler.huangsc@gmail.com",
+"group": 1
+},
+{
+"id": "jhan51@illinois.edu",
+"group": 1
+},
+{
+"id": "hugobossyen@gmail.com",
+"group": 1
+},
+{
+"id": "Anh Dinh",
+"group": 1
+},
+{
+"id": "xlqizju@gmail.com",
+"group": 1
+},
+{
+"id": "xd5@illinois.edu",
+"group": 1
+},
+{
+"id": "swu.umich@gmail.com",
+"group": 1
+},
+{
+"id": "superchaoran@gmail.com",
+"group": 1
+},
+{
+"id": "lxiao695@gmail.com",
+"group": 1
+},
+{
+"id": "liutanqiu@gmail.com",
+"group": 1
+},
+{
+"id": "baohez2@illinois.edu",
+"group": 1
+},
+{
+"id": "boblin@zju.edu.cn",
+"group": 1
+},
+{
+"id": "joeztang7@gmail.com",
+"group": 1
+},
+{
+"id": "zibolin2@illinois.edu",
+"group": 1
+},
+{
+"id": "chenxiao199302@gmail.com",
+"group": 1
+},
+{
+"id": "Shuo Yan",
+"group": 1
+},
+{
+"id": "gaoyuliu1993@gmail.com",
+"group": 1
+},
+{
+"id": "jobreferzh@gmail.com",
+"group": 1
+},
+{
+"id": "Yicong Yang",
+"group": 1
+},
+{
+"id": "qixin.stark.zhu@gmail.com",
+"group": 1
+},
+{
+"id": "Carly Antosh",
+"group": 1
+},
+{
+"id": "chenwu9626@gmail.com",
+"group": 1
+},
+{
+"id": "rm-0b2yb21va991rxsauaa2akqqbryfdej@h1.hilton.com",
+"group": 1
+},
+{
+"id": "writetoswarna@gmail.com",
+"group": 1
+},
+{
+"id": "kevinwirehack@gmail.com",
+"group": 1
+},
+{
+"id": "Irene Zhong",
+"group": 1
+},
+{
+"id": "Jaimie Lee",
+"group": 1
+},
+{
+"id": "Zhonghua Zheng",
+"group": 1
+},
+{
+"id": "yang.yu@hefeiaam.com",
+"group": 1
+},
+{
+"id": "yuzhao4@illinois.edu",
+"group": 1
+},
+{
+"id": "kidsbear1986@gmail.com",
+"group": 1
+},
+{
+"id": "Chenxi Chen",
+"group": 1
+},
+{
+"id": "chencuf@gmail.com",
+"group": 1
+},
+{
+"id": "CITL-EPI",
+"group": 1
+},
+{
+"id": "Xiaolu",
+"group": 0
+}
+],
+"links": [
+{
+"source": "Xiaolu",
+"target": "kai.pan.kpan@gmail.com",
+"value": 5
+},
+{
+"source": "Xiaolu",
+"target": "Hugo Yen",
+"value": 5
+},
+{
+"source": "Xiaolu",
+"target": "Chenxing Wu",
+"value": 4
+},
+{
+"source": "Xiaolu",
+"target": "Lillian",
+"value": 3
+},
+{
+"source": "Xiaolu",
+"target": "Chaoran Wang",
+"value": 3
+},
+{
+"source": "Xiaolu",
+"target": "huangminzh@gmail.com",
+"value": 3
+},
+{
+"source": "Xiaolu",
+"target": "hayfordant@google.com",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "Lina Vera Vega",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "shuoyan3@illinois.edu",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "tyler.huangsc@gmail.com",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "jhan51@illinois.edu",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "hugobossyen@gmail.com",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "Anh Dinh",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "xlqizju@gmail.com",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "xd5@illinois.edu",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "swu.umich@gmail.com",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "superchaoran@gmail.com",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "lxiao695@gmail.com",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "liutanqiu@gmail.com",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "baohez2@illinois.edu",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "boblin@zju.edu.cn",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "joeztang7@gmail.com",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "zibolin2@illinois.edu",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "chenxiao199302@gmail.com",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "Shuo Yan",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "gaoyuliu1993@gmail.com",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "jobreferzh@gmail.com",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "Yicong Yang",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "qixin.stark.zhu@gmail.com",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "Carly Antosh",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "chenwu9626@gmail.com",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "rm-0b2yb21va991rxsauaa2akqqbryfdej@h1.hilton.com",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "writetoswarna@gmail.com",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "kevinwirehack@gmail.com",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "Irene Zhong",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "Jaimie Lee",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "Zhonghua Zheng",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "yang.yu@hefeiaam.com",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "yuzhao4@illinois.edu",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "kidsbear1986@gmail.com",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "Chenxi Chen",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "chencuf@gmail.com",
+"value": 1
+},
+{
+"source": "Xiaolu",
+"target": "CITL-EPI",
+"value": 1
+}
+]
+}
