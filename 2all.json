@@ -1,0 +1,3714 @@
+{
+"nodes": [
+{
+"id": "kai.pan.kpan@gmail.com",
+"group": 1
+},
+{
+"id": "Hugo Yen",
+"group": 2
+},
+{
+"id": "Chenxing Wu",
+"group": 2
+},
+{
+"id": "Lillian",
+"group": 1
+},
+{
+"id": "Chaoran Wang",
+"group": 2
+},
+{
+"id": "huangminzh@gmail.com",
+"group": 1
+},
+{
+"id": "hayfordant@google.com",
+"group": 1
+},
+{
+"id": "Lina Vera Vega",
+"group": 2
+},
+{
+"id": "shuoyan3@illinois.edu",
+"group": 1
+},
+{
+"id": "tyler.huangsc@gmail.com",
+"group": 1
+},
+{
+"id": "jhan51@illinois.edu",
+"group": 1
+},
+{
+"id": "hugobossyen@gmail.com",
+"group": 1
+},
+{
+"id": "Anh Dinh",
+"group": 2
+},
+{
+"id": "xlqizju@gmail.com",
+"group": 1
+},
+{
+"id": "xd5@illinois.edu",
+"group": 1
+},
+{
+"id": "swu.umich@gmail.com",
+"group": 1
+},
+{
+"id": "superchaoran@gmail.com",
+"group": 1
+},
+{
+"id": "lxiao695@gmail.com",
+"group": 1
+},
+{
+"id": "liutanqiu@gmail.com",
+"group": 1
+},
+{
+"id": "baohez2@illinois.edu",
+"group": 1
+},
+{
+"id": "boblin@zju.edu.cn",
+"group": 1
+},
+{
+"id": "joeztang7@gmail.com",
+"group": 1
+},
+{
+"id": "zibolin2@illinois.edu",
+"group": 1
+},
+{
+"id": "chenxiao199302@gmail.com",
+"group": 1
+},
+{
+"id": "Shuo Yan",
+"group": 1
+},
+{
+"id": "gaoyuliu1993@gmail.com",
+"group": 1
+},
+{
+"id": "jobreferzh@gmail.com",
+"group": 1
+},
+{
+"id": "Yicong Yang",
+"group": 1
+},
+{
+"id": "qixin.stark.zhu@gmail.com",
+"group": 1
+},
+{
+"id": "Carly Antosh",
+"group": 2
+},
+{
+"id": "chenwu9626@gmail.com",
+"group": 1
+},
+{
+"id": "rm-0b2yb21va991rxsauaa2akqqbryfdej@h1.hilton.com",
+"group": 1
+},
+{
+"id": "writetoswarna@gmail.com",
+"group": 1
+},
+{
+"id": "kevinwirehack@gmail.com",
+"group": 1
+},
+{
+"id": "Irene Zhong",
+"group": 2
+},
+{
+"id": "Jaimie Lee",
+"group": 2
+},
+{
+"id": "Zhonghua Zheng",
+"group": 1
+},
+{
+"id": "yang.yu@hefeiaam.com",
+"group": 1
+},
+{
+"id": "yuzhao4@illinois.edu",
+"group": 1
+},
+{
+"id": "kidsbear1986@gmail.com",
+"group": 1
+},
+{
+"id": "Chenxi Chen",
+"group": 2
+},
+{
+"id": "chencuf@gmail.com",
+"group": 1
+},
+{
+"id": "CITL-EPI",
+"group": 2
+},
+{
+"id": "Xiaolu",
+"group": 0
+},
+{
+"id": "\"Rue La La\"",
+"group": 3
+},
+{
+"id": "\"Neiman Marcus\"",
+"group": 3
+},
+{
+"id": "\"Saks Fifth Avenue\"",
+"group": 3
+},
+{
+"id": "\"NORDSTROM RACK\"",
+"group": 3
+},
+{
+"id": "\"Michael Kors\"",
+"group": 3
+},
+{
+"id": "\"eBay\"",
+"group": 3
+},
+{
+"id": "Costco Wholesale",
+"group": 3
+},
+{
+"id": "\"Lancome\"",
+"group": 3
+},
+{
+"id": "\"katespade.com\"",
+"group": 3
+},
+{
+"id": "Walmart",
+"group": 3
+},
+{
+"id": "Ebates ",
+"group": 3
+},
+{
+"id": "\"Nike\"",
+"group": 3
+},
+{
+"id": "\"Bloomingdale's Loyallist\"",
+"group": 3
+},
+{
+"id": "\"SkinStore\"",
+"group": 3
+},
+{
+"id": "Venmo",
+"group": 3
+},
+{
+"id": "\"Bon-Ton\"",
+"group": 3
+},
+{
+"id": "Ebates",
+"group": 3
+},
+{
+"id": "\"NORDSTROM\"",
+"group": 3
+},
+{
+"id": "\"Converse\"",
+"group": 3
+},
+{
+"id": "\"Booking.com\"",
+"group": 3
+},
+{
+"id": "\"Lord & Taylor\"",
+"group": 3
+},
+{
+"id": "PNC Alerts",
+"group": 3
+},
+{
+"id": "Sephora Insider ",
+"group": 3
+},
+{
+"id": "\"Kiehl's Since 1851\"",
+"group": 3
+},
+{
+"id": "\"ShopRunner\"",
+"group": 3
+},
+{
+"id": "Coach Outlet ",
+"group": 3
+},
+{
+"id": "Columbia Sportswear ",
+"group": 3
+},
+{
+"id": "\"KAYAK\"",
+"group": 3
+},
+{
+"id": "\"eBay Deals\"",
+"group": 3
+},
+{
+"id": "\"StudentUniverse\"",
+"group": 3
+},
+{
+"id": "\"MAC Cosmetics Online\"",
+"group": 3
+},
+{
+"id": "\"Jomashop\"",
+"group": 3
+},
+{
+"id": "\"Nine West\"",
+"group": 3
+},
+{
+"id": "Ebates Hot Deals",
+"group": 3
+},
+{
+"id": "\"MAC Cosmetics\"",
+"group": 3
+},
+{
+"id": "Jet",
+"group": 3
+},
+{
+"id": "\"Hurley\"",
+"group": 3
+},
+{
+"id": "\"Clinique Online\"",
+"group": 3
+},
+{
+"id": "eBay",
+"group": 3
+},
+{
+"id": "ThePlaceat117@achliving.com",
+"group": 3
+},
+{
+"id": "\"PUMA\"",
+"group": 3
+},
+{
+"id": "Pocket Points",
+"group": 3
+},
+{
+"id": "\"OpenTable\"",
+"group": 3
+},
+{
+"id": "\"Ticketmaster\"",
+"group": 3
+},
+{
+"id": "Coach ",
+"group": 3
+},
+{
+"id": "\"Coursera\"",
+"group": 3
+},
+{
+"id": "Save Our Oceans",
+"group": 3
+},
+{
+"id": "\"Newegg.com\"",
+"group": 3
+},
+{
+"id": "\"Hilton Honors\"",
+"group": 3
+},
+{
+"id": "KAYAK",
+"group": 3
+},
+{
+"id": "\"Grammarly Insights\"",
+"group": 3
+},
+{
+"id": "\"eBay Fashion Fix\"",
+"group": 3
+},
+{
+"id": "no-reply@lintcode.com",
+"group": 3
+},
+{
+"id": "\"Spring\"",
+"group": 3
+},
+{
+"id": "\"Jomashop Exclusives\"",
+"group": 3
+},
+{
+"id": "Sephora Insider",
+"group": 3
+},
+{
+"id": "\"Macy's\"",
+"group": 3
+},
+{
+"id": "\"kate spade surprise\"",
+"group": 3
+},
+{
+"id": "Columbia Sportswear",
+"group": 3
+},
+{
+"id": "\"Lord & Taylor Online\"",
+"group": 3
+},
+{
+"id": "\"Grammarly Premium\"",
+"group": 3
+},
+{
+"id": "Case Western Reserve University Management",
+"group": 3
+},
+{
+"id": "Columbia Sportswear Rewards ",
+"group": 3
+},
+{
+"id": "PNCBank_Statements@pnc.com",
+"group": 3
+},
+{
+"id": "Coach",
+"group": 3
+},
+{
+"id": "\"Bloomingdale's\"",
+"group": 3
+},
+{
+"id": "\"PNC Bank\"",
+"group": 3
+},
+{
+"id": "\"Lord & Taylor Beauty\"",
+"group": 3
+},
+{
+"id": "\"Jordan\"",
+"group": 3
+},
+{
+"id": "Google",
+"group": 3
+},
+{
+"id": "\"Chegg\"",
+"group": 3
+},
+{
+"id": "\"Northwestern MSL\"",
+"group": 3
+},
+{
+"id": "\"Bloomingdale's Friends & Family\"",
+"group": 3
+},
+{
+"id": "\"Uber\"",
+"group": 3
+},
+{
+"id": "Ebates In-Store Cash Back ",
+"group": 3
+},
+{
+"id": "\"Jomashop Doorbusters\"",
+"group": 3
+},
+{
+"id": "\"LeetCode Discuss\"",
+"group": 3
+},
+{
+"id": "Coach by Invitation ",
+"group": 3
+},
+{
+"id": "\"MAC Select\"",
+"group": 3
+},
+{
+"id": "LeetCode",
+"group": 3
+},
+{
+"id": "\"Ebates Member Services\"",
+"group": 3
+},
+{
+"id": "Twitter",
+"group": 3
+},
+{
+"id": "isss@illinois.edu",
+"group": 3
+},
+{
+"id": "\"Sephora Insider\"",
+"group": 3
+},
+{
+"id": "Bumble",
+"group": 3
+},
+{
+"id": "\"Mark from Kaggle\"",
+"group": 3
+},
+{
+"id": "\"Disney Interactive\"",
+"group": 3
+},
+{
+"id": "\"Ebates\"",
+"group": 3
+},
+{
+"id": "Esri Developer Outreach Team",
+"group": 3
+},
+{
+"id": "\"Coach\"",
+"group": 3
+},
+{
+"id": "The University Group",
+"group": 3
+},
+{
+"id": "Ebates Member Services ",
+"group": 3
+},
+{
+"id": "\"Bloomingdale's Private Sale\"",
+"group": 3
+},
+{
+"id": "\"Peoria Charter",
+"group": 3
+},
+{
+"id": "Airby@achliving.com",
+"group": 3
+},
+{
+"id": "YouTube",
+"group": 3
+},
+{
+"id": "\"Disney Merchandise\"",
+"group": 3
+},
+{
+"id": "\"Airbnb\"",
+"group": 3
+},
+{
+"id": "\"Greyhound\"",
+"group": 3
+},
+{
+"id": "\"Timmy from Repl.it\"",
+"group": 3
+},
+{
+"id": "Walmart Fashion",
+"group": 3
+},
+{
+"id": "Team Anaconda",
+"group": 3
+},
+{
+"id": "\"Columbia Sportswear\"",
+"group": 3
+},
+{
+"id": "Bon-Ton",
+"group": 3
+},
+{
+"id": "\"Gifts at Bloomingdale's\"",
+"group": 3
+},
+{
+"id": "Chase",
+"group": 3
+},
+{
+"id": "\"Uber Eats\"",
+"group": 3
+},
+{
+"id": "Discover Card",
+"group": 3
+},
+{
+"id": "Coach by Invitation",
+"group": 3
+},
+{
+"id": "neimanmarcus@customercare.neimanmarcus.com",
+"group": 3
+},
+{
+"id": "Chase ",
+"group": 3
+},
+{
+"id": "\"Belk Customer Service\"",
+"group": 3
+},
+{
+"id": "orderstatus@costco.com",
+"group": 3
+},
+{
+"id": "\"Michael Kors Collection\"",
+"group": 3
+},
+{
+"id": "GNC",
+"group": 3
+},
+{
+"id": "USFSCO",
+"group": 3
+},
+{
+"id": "\"Jomashop Flash Sales\"",
+"group": 3
+},
+{
+"id": "NetSarang Newsletter",
+"group": 3
+},
+{
+"id": "Cardinal Stritch University",
+"group": 3
+},
+{
+"id": "Groupon",
+"group": 3
+},
+{
+"id": "Sephora ",
+"group": 3
+},
+{
+"id": "Market Place Shopping Center",
+"group": 3
+},
+{
+"id": "\"My Disney\"",
+"group": 3
+},
+{
+"id": "\"McDonald's\"",
+"group": 3
+},
+{
+"id": "\"Conservice\"",
+"group": 3
+},
+{
+"id": "\"adidas Online Store\"",
+"group": 3
+},
+{
+"id": "Columbia Sportswear Rewards",
+"group": 3
+},
+{
+"id": "Duolingo",
+"group": 3
+},
+{
+"id": "\"Lisa, President of Rue La La\"",
+"group": 3
+},
+{
+"id": "\"Chicago Bulls\"",
+"group": 3
+},
+{
+"id": "edX",
+"group": 3
+},
+{
+"id": "\"Chancellor Robert J. Jones\"",
+"group": 3
+},
+{
+"id": "\"Belk\"",
+"group": 3
+},
+{
+"id": "\"eBay Fashion\"",
+"group": 3
+},
+{
+"id": "Ebates Hot Deals ",
+"group": 3
+},
+{
+"id": "\"MAC Events\"",
+"group": 3
+},
+{
+"id": "Bizrate Rewards",
+"group": 3
+},
+{
+"id": "Illinois Engineering",
+"group": 3
+},
+{
+"id": "customerservice@walmart.com",
+"group": 3
+},
+{
+"id": "\"Christopher from Kaggle\"",
+"group": 3
+},
+{
+"id": "\"MSL Program\"",
+"group": 3
+},
+{
+"id": "ColourPop",
+"group": 3
+},
+{
+"id": "\"PNC Rewards\"",
+"group": 3
+},
+{
+"id": "Kai Pan",
+"group": 3
+},
+{
+"id": "\"Instagram\"",
+"group": 3
+},
+{
+"id": "\"Fandango\"",
+"group": 3
+},
+{
+"id": "order-decline@costco.com",
+"group": 3
+},
+{
+"id": "\"Gradlaw@depaul.edu\"",
+"group": 3
+},
+{
+"id": "CustomerCare@Clinique.com",
+"group": 3
+},
+{
+"id": "\"Macy's One Day Sale\"",
+"group": 3
+},
+{
+"id": "\"shopDisney\"",
+"group": 3
+},
+{
+"id": "\"Atlassian\"",
+"group": 3
+},
+{
+"id": "Groupon Detroit",
+"group": 3
+},
+{
+"id": "\"Walmart.com\"",
+"group": 3
+},
+{
+"id": "Google Cloud Platform",
+"group": 3
+},
+{
+"id": "\"Sephora\"",
+"group": 3
+},
+{
+"id": "\"Mark, CEO of Rue La La\"",
+"group": 3
+},
+{
+"id": "Antoinette Hayford",
+"group": 3
+},
+{
+"id": "\"Phil from Kaggle\"",
+"group": 3
+},
+{
+"id": "GitHub",
+"group": 3
+},
+{
+"id": "\"Yang, Yuhang\"",
+"group": 3
+},
+{
+"id": "Illinois Alumni Association",
+"group": 3
+},
+{
+"id": "Steve G",
+"group": 3
+},
+{
+"id": "noreply@google.com",
+"group": 3
+},
+{
+"id": "PNC ATM Receipts",
+"group": 3
+},
+{
+"id": "Esri Developer Summit",
+"group": 3
+},
+{
+"id": "<irecruit@slb.com",
+"group": 3
+},
+{
+"id": "\"Jomashop Watch Store\"",
+"group": 3
+},
+{
+"id": "\"The University Group (Do Not Reply)\"",
+"group": 3
+},
+{
+"id": "kyau87@illinois.edu",
+"group": 3
+},
+{
+"id": "UI Alumni Alliance and Illinois Connection\r\n",
+"group": 3
+},
+{
+"id": "toefl@ets.org",
+"group": 3
+},
+{
+"id": "Ebates Birthday ",
+"group": 3
+},
+{
+"id": "\"Bloomingdale's Team\"",
+"group": 3
+},
+{
+"id": "\"Bon-Ton Beauty\"",
+"group": 3
+},
+{
+"id": "\"Leslie Oster\"",
+"group": 3
+},
+{
+"id": "ETS",
+"group": 3
+},
+{
+"id": "\"Macy's Beauty\"",
+"group": 3
+},
+{
+"id": "\"Coach by Invitation\"",
+"group": 3
+},
+{
+"id": "Lu Jin",
+"group": 3
+},
+{
+"id": "Xiaolu Qi",
+"group": 3
+},
+{
+"id": "\"Venmo\"",
+"group": 3
+},
+{
+"id": "\"Will from Kaggle\"",
+"group": 3
+},
+{
+"id": "\"Jomashop Deals\"",
+"group": 3
+},
+{
+"id": "Origins Ratings from Bizrate",
+"group": 3
+},
+{
+"id": "\"Walter from Kaggle\"",
+"group": 3
+},
+{
+"id": "Sephora Beauty Insider ",
+"group": 3
+},
+{
+"id": "\"NORDSTROM BEAUTY\"",
+"group": 3
+},
+{
+"id": "\"Graduate Admissions \"",
+"group": 3
+},
+{
+"id": "\"Jomashop Events\"",
+"group": 3
+},
+{
+"id": "\"Cisco Webex\"",
+"group": 3
+},
+{
+"id": "\"Chowbus\"",
+"group": 3
+},
+{
+"id": "\"Yelp\"",
+"group": 3
+},
+{
+"id": "\"service@paypal.com\"",
+"group": 3
+},
+{
+"id": "Xiaolu Qi via LinkedIn",
+"group": 3
+},
+{
+"id": "coursehelpercn@gmail.com",
+"group": 3
+},
+{
+"id": "snapshot-emails@google.com",
+"group": 3
+},
+{
+"id": "Walt Disney Studios Home Entertainment",
+"group": 3
+},
+{
+"id": "Google Staffing",
+"group": 3
+},
+{
+"id": "Jinda Han",
+"group": 3
+},
+{
+"id": "\"Nike.com\"",
+"group": 3
+},
+{
+"id": "welcome@overleaf.com",
+"group": 3
+},
+{
+"id": "University of Illinois - USFSCO",
+"group": 3
+},
+{
+"id": "noreply@uillinois.edu",
+"group": 3
+},
+{
+"id": "\"Walt Disney Pictures\"",
+"group": 3
+},
+{
+"id": "\"Steam\"",
+"group": 3
+},
+{
+"id": "lancome-usa",
+"group": 3
+},
+{
+"id": "Clinique Ratings from Bizrate",
+"group": 3
+},
+{
+"id": "\"Star Wars\"",
+"group": 3
+},
+{
+"id": "YicongY",
+"group": 3
+},
+{
+"id": "\"OpenTable | Signature Room at the 95th Reservations\"",
+"group": 3
+},
+{
+"id": "\"Megan from Kaggle\"",
+"group": 3
+},
+{
+"id": "Marissa Brush",
+"group": 3
+},
+{
+"id": "\"Windows\"",
+"group": 3
+},
+{
+"id": "\"shopDisney  |  Disney store\"",
+"group": 3
+},
+{
+"id": "Ebates Member Services",
+"group": 3
+},
+{
+"id": "PNCBank_Transfers@pnc.com",
+"group": 3
+},
+{
+"id": "Ebates In-Store Cash Back",
+"group": 3
+},
+{
+"id": "Bizrate Rewards ",
+"group": 3
+},
+{
+"id": "\"bonton.com\"",
+"group": 3
+},
+{
+"id": "PNC Alert",
+"group": 3
+},
+{
+"id": "Dropbox",
+"group": 3
+},
+{
+"id": "Jeannie from edX",
+"group": 3
+},
+{
+"id": "Quizlet News",
+"group": 3
+},
+{
+"id": "H&M",
+"group": 3
+},
+{
+"id": "\"Nordstrom Customer Care\" \r\n   ",
+"group": 3
+},
+{
+"id": "\"Rensselaer Polytechnic Institute\"",
+"group": 3
+},
+{
+"id": "\"Zhonghua Zheng (via Google Drive)\"",
+"group": 3
+},
+{
+"id": "StudentUniverse",
+"group": 3
+},
+{
+"id": "\"Rachael from Kaggle\"",
+"group": 3
+},
+{
+"id": "Chowbus",
+"group": 3
+},
+{
+"id": "University of Illinois at Urbana-Champaign",
+"group": 3
+},
+{
+"id": "\"Starbucks\"",
+"group": 3
+},
+{
+"id": "Groupon Getaways",
+"group": 3
+},
+{
+"id": "Google Cloud Platform Support",
+"group": 3
+},
+{
+"id": "\"AMC Theatres\"",
+"group": 3
+},
+{
+"id": "Groupon Goods",
+"group": 3
+},
+{
+"id": "Google Cloud Support",
+"group": 3
+},
+{
+"id": "Platform Notifications",
+"group": 3
+},
+{
+"id": "\"Anh Dinh\"",
+"group": 3
+},
+{
+"id": "\"Xiaolu Qi (via Google Drive)\"",
+"group": 3
+},
+{
+"id": "\"Northwestern Pritzker Law | MSL Program\"\r\n",
+"group": 3
+},
+{
+"id": "\"Google Eng Intern Program (no reply)\"",
+"group": 3
+},
+{
+"id": "\"Google Cloud Platform, Firebase, and APIs\"",
+"group": 3
+},
+{
+"id": "\"Amjad from Repl.it\"",
+"group": 3
+},
+{
+"id": "\"UMaine Graduate School\"",
+"group": 3
+},
+{
+"id": "\"Overleaf\"",
+"group": 3
+},
+{
+"id": "The Retreat at Illinois",
+"group": 3
+},
+{
+"id": "ColourPop Cosmetics",
+"group": 3
+},
+{
+"id": "\"Lina Vera Vega\"",
+"group": 3
+},
+{
+"id": "Google Forms",
+"group": 3
+},
+{
+"id": "Microsoft Invitations",
+"group": 3
+},
+{
+"id": "\"Twitter University Recruiting\"",
+"group": 3
+},
+{
+"id": "Groupon Deals of the Day",
+"group": 3
+},
+{
+"id": "\"Baohe Zhang (via Google Docs)\"",
+"group": 3
+},
+{
+"id": "user_inquiries@origins.com",
+"group": 3
+},
+{
+"id": "\"Jomashop Black Friday\"",
+"group": 3
+},
+{
+"id": "ShopRunner",
+"group": 3
+},
+{
+"id": "\"Rue La La VIP\"",
+"group": 3
+},
+{
+"id": "Kaggle Administrator",
+"group": 3
+},
+{
+"id": "team@pocketpoints.com",
+"group": 3
+},
+{
+"id": "\"Disney Apps & Games\"",
+"group": 3
+},
+{
+"id": "travelatmydesk@notifications.amexgbt.com",
+"group": 3
+},
+{
+"id": "\"HackerRank Team\"",
+"group": 3
+},
+{
+"id": "\"TwitterRecruiting\"",
+"group": 3
+},
+{
+"id": "American Express Global Business Travel",
+"group": 3
+},
+{
+"id": "\"Twitter Ads API Program\"",
+"group": 3
+},
+{
+"id": "\" Twitter University Recruiting\"",
+"group": 3
+},
+{
+"id": "International Student and Scholar Services\r\n",
+"group": 3
+},
+{
+"id": "\"puma\"",
+"group": 3
+},
+{
+"id": "shuoyan1217@email.referral-mail.com",
+"group": 3
+},
+{
+"id": "\"Zhang, Baohe\"",
+"group": 3
+},
+{
+"id": "University Recruiting",
+"group": 3
+},
+{
+"id": "University of Illinois Alumni Alliance",
+"group": 3
+},
+{
+"id": "\"Wendy from Kaggle\"",
+"group": 3
+},
+{
+"id": "\"Facebook Recruiting\"",
+"group": 3
+},
+{
+"id": "Ebates Cyber Monday",
+"group": 3
+},
+{
+"id": "customerservice@puma.com",
+"group": 3
+},
+{
+"id": "Visa University Recruiting",
+"group": 3
+},
+{
+"id": "HK-McDonalds",
+"group": 3
+},
+{
+"id": "\"Xiang (via Google Drive)\"",
+"group": 3
+},
+{
+"id": "\"Data Structures Course Team\"",
+"group": 3
+},
+{
+"id": "Twitter Recruiting",
+"group": 3
+},
+{
+"id": "Tanqiu Liu",
+"group": 3
+},
+{
+"id": "kevina.malonethomas@jpmorgan.com",
+"group": 3
+},
+{
+"id": "College of ACES Alumni Association",
+"group": 3
+},
+{
+"id": "isss-tops@illinois.edu",
+"group": 3
+},
+{
+"id": "Registrations@info.slb.com",
+"group": 3
+},
+{
+"id": "Cory Busboom",
+"group": 3
+},
+{
+"id": "bc zhang",
+"group": 3
+},
+{
+"id": "John Deere Recruiting",
+"group": 3
+},
+{
+"id": "Google Compute Engine Quota Support",
+"group": 3
+},
+{
+"id": "University Group Leasing Department",
+"group": 3
+},
+{
+"id": "\"StarWars.com\"",
+"group": 3
+},
+{
+"id": "\"Hiton Honors\"",
+"group": 3
+},
+{
+"id": "messenger@webex.com",
+"group": 3
+},
+{
+"id": "cantosh@achliving.com",
+"group": 3
+},
+{
+"id": "\"Evernote Team\"",
+"group": 3
+},
+{
+"id": "\"Grammarly\"",
+"group": 3
+},
+{
+"id": "\"Place at 117, The\"",
+"group": 3
+},
+{
+"id": "PLAY! by SEPHORA ",
+"group": 3
+},
+{
+"id": "ZUAA Champaign",
+"group": 3
+},
+{
+"id": "Walmart Grocery",
+"group": 3
+},
+{
+"id": "\"Warren Thomas\"",
+"group": 3
+},
+{
+"id": "customerservice@studentuniverse.com",
+"group": 3
+},
+{
+"id": "\"Shopper Approved\"",
+"group": 3
+},
+{
+"id": "International Student and Scholar Services",
+"group": 3
+},
+{
+"id": "\"Conservice EDE\"",
+"group": 3
+},
+{
+"id": "Walmart Surveys",
+"group": 3
+},
+{
+"id": "Google Flights",
+"group": 3
+},
+{
+"id": "no-reply@costco.com",
+"group": 3
+},
+{
+"id": "Educational Testing Service",
+"group": 3
+},
+{
+"id": "mariamc9@illinois.edu",
+"group": 3
+},
+{
+"id": "Place at 117",
+"group": 3
+},
+{
+"id": "\"JomaShop.com\"",
+"group": 3
+},
+{
+"id": "Dealmoon",
+"group": 3
+},
+{
+"id": "Cisco Webex",
+"group": 3
+},
+{
+"id": "\"kate spade new york\"",
+"group": 3
+},
+{
+"id": "\"Airbnb Co-Founders - Brian Chesky, Joe Gebbia and Nathan Blecharczyk\"",
+"group": 3
+},
+{
+"id": "The Gmail Team",
+"group": 3
+},
+{
+"id": "\"=?utf-8?B?5Y+k5Lyg6ZGr?=\"",
+"group": 3
+},
+{
+"id": "Texas A&M Landscape Architecture & Urban Planning",
+"group": 3
+},
+{
+"id": "University of Illinois Alumni Alliance and Illinois Connection\r\n",
+"group": 3
+},
+{
+"id": "\"ABC.com\"",
+"group": 3
+},
+{
+"id": "\"Disney Consumer Products\"",
+"group": 3
+},
+{
+"id": "\"NORDSTROM RACK | HauteLook\"",
+"group": 3
+},
+{
+"id": "\"Computer Architecture Course Team\"",
+"group": 3
+},
+{
+"id": "The Original MakeUp Eraser",
+"group": 3
+},
+{
+"id": "<ceair_service@ceair.com",
+"group": 3
+},
+{
+"id": "Lord & Taylor",
+"group": 3
+},
+{
+"id": "\"Dan from Kaggle\"",
+"group": 3
+},
+{
+"id": "\"Bon-Ton Rewards\"",
+"group": 3
+},
+{
+"id": "Esri",
+"group": 3
+},
+{
+"id": "\"Ben from Kaggle\"",
+"group": 3
+},
+{
+"id": "Swarnadeep Saha",
+"group": 3
+},
+{
+"id": "Microsoft",
+"group": 3
+},
+{
+"id": "\"Shoreline Sightseeing\"",
+"group": 3
+},
+{
+"id": "\"Ticketmaster Customer Support\"",
+"group": 3
+},
+{
+"id": "FusionWifi",
+"group": 3
+},
+{
+"id": "Merge",
+"group": 3
+},
+{
+"id": "Costco",
+"group": 3
+},
+{
+"id": "\"Jaimie Lee\"",
+"group": 3
+},
+{
+"id": "Microsoft =?gb2312?b?1cq7p83FttM=?=\r\n",
+"group": 3
+},
+{
+"id": "\"Atlassian Bitbucket\"",
+"group": 3
+},
+{
+"id": "\"SHL On Demand\"",
+"group": 3
+},
+{
+"id": "\"Marvel Entertainment\"",
+"group": 3
+},
+{
+"id": "\"\\\"Ebates\\\"\"",
+"group": 3
+},
+{
+"id": "Vimeo",
+"group": 3
+},
+{
+"id": "J Turner Research",
+"group": 3
+},
+{
+"id": "\"Steam Support\"",
+"group": 3
+},
+{
+"id": "\"Illinois Graduate Admissions\"",
+"group": 3
+},
+{
+"id": "<yuyanghaam@sina.com",
+"group": 3
+},
+{
+"id": "Andrew Lindsey",
+"group": 3
+},
+{
+"id": "\"Macy's Shoes\"",
+"group": 3
+},
+{
+"id": "\"MAC Select Membership\"",
+"group": 3
+},
+{
+"id": "Olivia from Quizlet",
+"group": 3
+},
+{
+"id": "\"Cal Poly College of Business\"",
+"group": 3
+},
+{
+"id": "<noreply@VictoriasSecret.com",
+"group": 3
+},
+{
+"id": "unify@ets.org",
+"group": 3
+},
+{
+"id": "\"Qi Zhu (via Google Docs)\"",
+"group": 3
+},
+{
+"id": "\"\\\"Jamie Ballinger, University of Maine Graduate School\\\"\"",
+"group": 3
+},
+{
+"id": "Ebates Sweepstakes",
+"group": 3
+},
+{
+"id": "CustomerCare@origins.com",
+"group": 3
+}
+],
+"links": [
+{
+"source": "Xiaolu",
+"target": "kai.pan.kpan@gmail.com",
+"value": 10
+},
+{
+"source": "Xiaolu",
+"target": "Hugo Yen",
+"value": 10
+},
+{
+"source": "Xiaolu",
+"target": "Chenxing Wu",
+"value": 8
+},
+{
+"source": "Xiaolu",
+"target": "Lillian",
+"value": 6
+},
+{
+"source": "Xiaolu",
+"target": "Chaoran Wang",
+"value": 6
+},
+{
+"source": "Xiaolu",
+"target": "huangminzh@gmail.com",
+"value": 6
+},
+{
+"source": "Xiaolu",
+"target": "hayfordant@google.com",
+"value": 4
+},
+{
+"source": "Xiaolu",
+"target": "Lina Vera Vega",
+"value": 4
+},
+{
+"source": "Xiaolu",
+"target": "shuoyan3@illinois.edu",
+"value": 4
+},
+{
+"source": "Xiaolu",
+"target": "tyler.huangsc@gmail.com",
+"value": 4
+},
+{
+"source": "Xiaolu",
+"target": "jhan51@illinois.edu",
+"value": 4
+},
+{
+"source": "Xiaolu",
+"target": "hugobossyen@gmail.com",
+"value": 4
+},
+{
+"source": "Xiaolu",
+"target": "Anh Dinh",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "xlqizju@gmail.com",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "xd5@illinois.edu",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "swu.umich@gmail.com",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "superchaoran@gmail.com",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "lxiao695@gmail.com",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "liutanqiu@gmail.com",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "baohez2@illinois.edu",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "boblin@zju.edu.cn",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "joeztang7@gmail.com",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "zibolin2@illinois.edu",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "chenxiao199302@gmail.com",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "Shuo Yan",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "gaoyuliu1993@gmail.com",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "jobreferzh@gmail.com",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "Yicong Yang",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "qixin.stark.zhu@gmail.com",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "Carly Antosh",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "chenwu9626@gmail.com",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "rm-0b2yb21va991rxsauaa2akqqbryfdej@h1.hilton.com",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "writetoswarna@gmail.com",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "kevinwirehack@gmail.com",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "Irene Zhong",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "Jaimie Lee",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "Zhonghua Zheng",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "yang.yu@hefeiaam.com",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "yuzhao4@illinois.edu",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "kidsbear1986@gmail.com",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "Chenxi Chen",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "chencuf@gmail.com",
+"value": 2
+},
+{
+"source": "Xiaolu",
+"target": "CITL-EPI",
+"value": 2
+},
+{
+"source": "\"Rue La La\"",
+"target": "Xiaolu",
+"value": 2510
+},
+{
+"source": "\"Neiman Marcus\"",
+"target": "Xiaolu",
+"value": 2072
+},
+{
+"source": "\"Saks Fifth Avenue\"",
+"target": "Xiaolu",
+"value": 1490
+},
+{
+"source": "\"NORDSTROM RACK\"",
+"target": "Xiaolu",
+"value": 906
+},
+{
+"source": "\"Michael Kors\"",
+"target": "Xiaolu",
+"value": 714
+},
+{
+"source": "\"eBay\"",
+"target": "Xiaolu",
+"value": 574
+},
+{
+"source": "Costco Wholesale",
+"target": "Xiaolu",
+"value": 570
+},
+{
+"source": "\"Lancome\"",
+"target": "Xiaolu",
+"value": 556
+},
+{
+"source": "\"katespade.com\"",
+"target": "Xiaolu",
+"value": 538
+},
+{
+"source": "Walmart",
+"target": "Xiaolu",
+"value": 522
+},
+{
+"source": "Ebates ",
+"target": "Xiaolu",
+"value": 514
+},
+{
+"source": "\"Nike\"",
+"target": "Xiaolu",
+"value": 490
+},
+{
+"source": "\"Bloomingdale's Loyallist\"",
+"target": "Xiaolu",
+"value": 460
+},
+{
+"source": "\"SkinStore\"",
+"target": "Xiaolu",
+"value": 438
+},
+{
+"source": "Venmo",
+"target": "Xiaolu",
+"value": 398
+},
+{
+"source": "\"Bon-Ton\"",
+"target": "Xiaolu",
+"value": 376
+},
+{
+"source": "Ebates",
+"target": "Xiaolu",
+"value": 364
+},
+{
+"source": "\"NORDSTROM\"",
+"target": "Xiaolu",
+"value": 356
+},
+{
+"source": "\"Converse\"",
+"target": "Xiaolu",
+"value": 346
+},
+{
+"source": "\"Booking.com\"",
+"target": "Xiaolu",
+"value": 332
+},
+{
+"source": "\"Lord & Taylor\"",
+"target": "Xiaolu",
+"value": 324
+},
+{
+"source": "PNC Alerts",
+"target": "Xiaolu",
+"value": 316
+},
+{
+"source": "Sephora Insider ",
+"target": "Xiaolu",
+"value": 308
+},
+{
+"source": "\"Kiehl's Since 1851\"",
+"target": "Xiaolu",
+"value": 308
+},
+{
+"source": "\"ShopRunner\"",
+"target": "Xiaolu",
+"value": 302
+},
+{
+"source": "Coach Outlet ",
+"target": "Xiaolu",
+"value": 274
+},
+{
+"source": "Columbia Sportswear ",
+"target": "Xiaolu",
+"value": 274
+},
+{
+"source": "\"KAYAK\"",
+"target": "Xiaolu",
+"value": 266
+},
+{
+"source": "\"eBay Deals\"",
+"target": "Xiaolu",
+"value": 224
+},
+{
+"source": "\"StudentUniverse\"",
+"target": "Xiaolu",
+"value": 210
+},
+{
+"source": "\"MAC Cosmetics Online\"",
+"target": "Xiaolu",
+"value": 198
+},
+{
+"source": "\"Jomashop\"",
+"target": "Xiaolu",
+"value": 188
+},
+{
+"source": "\"Nine West\"",
+"target": "Xiaolu",
+"value": 184
+},
+{
+"source": "Ebates Hot Deals",
+"target": "Xiaolu",
+"value": 178
+},
+{
+"source": "\"MAC Cosmetics\"",
+"target": "Xiaolu",
+"value": 178
+},
+{
+"source": "Jet",
+"target": "Xiaolu",
+"value": 172
+},
+{
+"source": "\"Hurley\"",
+"target": "Xiaolu",
+"value": 162
+},
+{
+"source": "\"Clinique Online\"",
+"target": "Xiaolu",
+"value": 154
+},
+{
+"source": "eBay",
+"target": "Xiaolu",
+"value": 150
+},
+{
+"source": "ThePlaceat117@achliving.com",
+"target": "Xiaolu",
+"value": 138
+},
+{
+"source": "\"PUMA\"",
+"target": "Xiaolu",
+"value": 124
+},
+{
+"source": "Pocket Points",
+"target": "Xiaolu",
+"value": 118
+},
+{
+"source": "\"OpenTable\"",
+"target": "Xiaolu",
+"value": 118
+},
+{
+"source": "\"Ticketmaster\"",
+"target": "Xiaolu",
+"value": 108
+},
+{
+"source": "Coach ",
+"target": "Xiaolu",
+"value": 104
+},
+{
+"source": "\"Coursera\"",
+"target": "Xiaolu",
+"value": 104
+},
+{
+"source": "Save Our Oceans",
+"target": "Xiaolu",
+"value": 92
+},
+{
+"source": "\"Newegg.com\"",
+"target": "Xiaolu",
+"value": 78
+},
+{
+"source": "\"Hilton Honors\"",
+"target": "Xiaolu",
+"value": 76
+},
+{
+"source": "KAYAK",
+"target": "Xiaolu",
+"value": 74
+},
+{
+"source": "\"Grammarly Insights\"",
+"target": "Xiaolu",
+"value": 72
+},
+{
+"source": "\"eBay Fashion Fix\"",
+"target": "Xiaolu",
+"value": 70
+},
+{
+"source": "no-reply@lintcode.com",
+"target": "Xiaolu",
+"value": 68
+},
+{
+"source": "\"Spring\"",
+"target": "Xiaolu",
+"value": 60
+},
+{
+"source": "\"Jomashop Exclusives\"",
+"target": "Xiaolu",
+"value": 60
+},
+{
+"source": "Sephora Insider",
+"target": "Xiaolu",
+"value": 58
+},
+{
+"source": "\"Macy's\"",
+"target": "Xiaolu",
+"value": 58
+},
+{
+"source": "\"kate spade surprise\"",
+"target": "Xiaolu",
+"value": 56
+},
+{
+"source": "Columbia Sportswear",
+"target": "Xiaolu",
+"value": 56
+},
+{
+"source": "\"Lord & Taylor Online\"",
+"target": "Xiaolu",
+"value": 54
+},
+{
+"source": "\"Grammarly Premium\"",
+"target": "Xiaolu",
+"value": 50
+},
+{
+"source": "Case Western Reserve University Management",
+"target": "Xiaolu",
+"value": 50
+},
+{
+"source": "Columbia Sportswear Rewards ",
+"target": "Xiaolu",
+"value": 46
+},
+{
+"source": "PNCBank_Statements@pnc.com",
+"target": "Xiaolu",
+"value": 46
+},
+{
+"source": "Coach",
+"target": "Xiaolu",
+"value": 46
+},
+{
+"source": "\"Bloomingdale's\"",
+"target": "Xiaolu",
+"value": 46
+},
+{
+"source": "\"PNC Bank\"",
+"target": "Xiaolu",
+"value": 42
+},
+{
+"source": "\"Lord & Taylor Beauty\"",
+"target": "Xiaolu",
+"value": 40
+},
+{
+"source": "\"Jordan\"",
+"target": "Xiaolu",
+"value": 38
+},
+{
+"source": "Google",
+"target": "Xiaolu",
+"value": 38
+},
+{
+"source": "\"Chegg\"",
+"target": "Xiaolu",
+"value": 38
+},
+{
+"source": "\"Northwestern MSL\"",
+"target": "Xiaolu",
+"value": 38
+},
+{
+"source": "\"Bloomingdale's Friends & Family\"",
+"target": "Xiaolu",
+"value": 36
+},
+{
+"source": "\"Uber\"",
+"target": "Xiaolu",
+"value": 36
+},
+{
+"source": "Ebates In-Store Cash Back ",
+"target": "Xiaolu",
+"value": 34
+},
+{
+"source": "\"Jomashop Doorbusters\"",
+"target": "Xiaolu",
+"value": 34
+},
+{
+"source": "\"LeetCode Discuss\"",
+"target": "Xiaolu",
+"value": 34
+},
+{
+"source": "Coach by Invitation ",
+"target": "Xiaolu",
+"value": 32
+},
+{
+"source": "\"MAC Select\"",
+"target": "Xiaolu",
+"value": 32
+},
+{
+"source": "LeetCode",
+"target": "Xiaolu",
+"value": 30
+},
+{
+"source": "\"Ebates Member Services\"",
+"target": "Xiaolu",
+"value": 28
+},
+{
+"source": "Twitter",
+"target": "Xiaolu",
+"value": 28
+},
+{
+"source": "isss@illinois.edu",
+"target": "Xiaolu",
+"value": 26
+},
+{
+"source": "\"Sephora Insider\"",
+"target": "Xiaolu",
+"value": 26
+},
+{
+"source": "Bumble",
+"target": "Xiaolu",
+"value": 24
+},
+{
+"source": "\"Mark from Kaggle\"",
+"target": "Xiaolu",
+"value": 24
+},
+{
+"source": "\"Disney Interactive\"",
+"target": "Xiaolu",
+"value": 24
+},
+{
+"source": "\"Ebates\"",
+"target": "Xiaolu",
+"value": 24
+},
+{
+"source": "Esri Developer Outreach Team",
+"target": "Xiaolu",
+"value": 24
+},
+{
+"source": "\"Coach\"",
+"target": "Xiaolu",
+"value": 24
+},
+{
+"source": "The University Group",
+"target": "Xiaolu",
+"value": 24
+},
+{
+"source": "Ebates Member Services ",
+"target": "Xiaolu",
+"value": 22
+},
+{
+"source": "\"Bloomingdale's Private Sale\"",
+"target": "Xiaolu",
+"value": 22
+},
+{
+"source": "\"Peoria Charter",
+"target": "Xiaolu",
+"value": 22
+},
+{
+"source": "Airby@achliving.com",
+"target": "Xiaolu",
+"value": 22
+},
+{
+"source": "YouTube",
+"target": "Xiaolu",
+"value": 22
+},
+{
+"source": "\"Disney Merchandise\"",
+"target": "Xiaolu",
+"value": 22
+},
+{
+"source": "\"Airbnb\"",
+"target": "Xiaolu",
+"value": 22
+},
+{
+"source": "\"Greyhound\"",
+"target": "Xiaolu",
+"value": 22
+},
+{
+"source": "\"Timmy from Repl.it\"",
+"target": "Xiaolu",
+"value": 20
+},
+{
+"source": "Walmart Fashion",
+"target": "Xiaolu",
+"value": 20
+},
+{
+"source": "Team Anaconda",
+"target": "Xiaolu",
+"value": 20
+},
+{
+"source": "\"Columbia Sportswear\"",
+"target": "Xiaolu",
+"value": 20
+},
+{
+"source": "Bon-Ton",
+"target": "Xiaolu",
+"value": 20
+},
+{
+"source": "\"Gifts at Bloomingdale's\"",
+"target": "Xiaolu",
+"value": 18
+},
+{
+"source": "Chase",
+"target": "Xiaolu",
+"value": 18
+},
+{
+"source": "\"Uber Eats\"",
+"target": "Xiaolu",
+"value": 18
+},
+{
+"source": "Discover Card",
+"target": "Xiaolu",
+"value": 18
+},
+{
+"source": "Coach by Invitation",
+"target": "Xiaolu",
+"value": 18
+},
+{
+"source": "neimanmarcus@customercare.neimanmarcus.com",
+"target": "Xiaolu",
+"value": 16
+},
+{
+"source": "Chase ",
+"target": "Xiaolu",
+"value": 16
+},
+{
+"source": "\"Belk Customer Service\"",
+"target": "Xiaolu",
+"value": 16
+},
+{
+"source": "orderstatus@costco.com",
+"target": "Xiaolu",
+"value": 16
+},
+{
+"source": "\"Michael Kors Collection\"",
+"target": "Xiaolu",
+"value": 16
+},
+{
+"source": "GNC",
+"target": "Xiaolu",
+"value": 16
+},
+{
+"source": "USFSCO",
+"target": "Xiaolu",
+"value": 16
+},
+{
+"source": "\"Jomashop Flash Sales\"",
+"target": "Xiaolu",
+"value": 14
+},
+{
+"source": "NetSarang Newsletter",
+"target": "Xiaolu",
+"value": 14
+},
+{
+"source": "Cardinal Stritch University",
+"target": "Xiaolu",
+"value": 14
+},
+{
+"source": "Groupon",
+"target": "Xiaolu",
+"value": 14
+},
+{
+"source": "Sephora ",
+"target": "Xiaolu",
+"value": 14
+},
+{
+"source": "Market Place Shopping Center",
+"target": "Xiaolu",
+"value": 14
+},
+{
+"source": "\"My Disney\"",
+"target": "Xiaolu",
+"value": 12
+},
+{
+"source": "\"McDonald's\"",
+"target": "Xiaolu",
+"value": 12
+},
+{
+"source": "\"Conservice\"",
+"target": "Xiaolu",
+"value": 12
+},
+{
+"source": "\"adidas Online Store\"",
+"target": "Xiaolu",
+"value": 12
+},
+{
+"source": "Irene Zhong",
+"target": "Xiaolu",
+"value": 12
+},
+{
+"source": "Columbia Sportswear Rewards",
+"target": "Xiaolu",
+"value": 12
+},
+{
+"source": "Hugo Yen",
+"target": "Xiaolu",
+"value": 12
+},
+{
+"source": "Duolingo",
+"target": "Xiaolu",
+"value": 10
+},
+{
+"source": "\"Lisa, President of Rue La La\"",
+"target": "Xiaolu",
+"value": 10
+},
+{
+"source": "\"Chicago Bulls\"",
+"target": "Xiaolu",
+"value": 10
+},
+{
+"source": "edX",
+"target": "Xiaolu",
+"value": 10
+},
+{
+"source": "\"Chancellor Robert J. Jones\"",
+"target": "Xiaolu",
+"value": 10
+},
+{
+"source": "\"Belk\"",
+"target": "Xiaolu",
+"value": 10
+},
+{
+"source": "\"eBay Fashion\"",
+"target": "Xiaolu",
+"value": 10
+},
+{
+"source": "Ebates Hot Deals ",
+"target": "Xiaolu",
+"value": 10
+},
+{
+"source": "\"MAC Events\"",
+"target": "Xiaolu",
+"value": 10
+},
+{
+"source": "Bizrate Rewards",
+"target": "Xiaolu",
+"value": 10
+},
+{
+"source": "Illinois Engineering",
+"target": "Xiaolu",
+"value": 10
+},
+{
+"source": "customerservice@walmart.com",
+"target": "Xiaolu",
+"value": 8
+},
+{
+"source": "\"Christopher from Kaggle\"",
+"target": "Xiaolu",
+"value": 8
+},
+{
+"source": "\"MSL Program\"",
+"target": "Xiaolu",
+"value": 8
+},
+{
+"source": "ColourPop",
+"target": "Xiaolu",
+"value": 8
+},
+{
+"source": "\"PNC Rewards\"",
+"target": "Xiaolu",
+"value": 8
+},
+{
+"source": "Kai Pan",
+"target": "Xiaolu",
+"value": 8
+},
+{
+"source": "\"Instagram\"",
+"target": "Xiaolu",
+"value": 8
+},
+{
+"source": "\"Fandango\"",
+"target": "Xiaolu",
+"value": 8
+},
+{
+"source": "order-decline@costco.com",
+"target": "Xiaolu",
+"value": 8
+},
+{
+"source": "\"Gradlaw@depaul.edu\"",
+"target": "Xiaolu",
+"value": 8
+},
+{
+"source": "CustomerCare@Clinique.com",
+"target": "Xiaolu",
+"value": 8
+},
+{
+"source": "\"Macy's One Day Sale\"",
+"target": "Xiaolu",
+"value": 8
+},
+{
+"source": "\"shopDisney\"",
+"target": "Xiaolu",
+"value": 8
+},
+{
+"source": "\"Atlassian\"",
+"target": "Xiaolu",
+"value": 8
+},
+{
+"source": "Groupon Detroit",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "\"Walmart.com\"",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "Google Cloud Platform",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "\"Sephora\"",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "\"Mark, CEO of Rue La La\"",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "Antoinette Hayford",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "\"Phil from Kaggle\"",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "Lina Vera Vega",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "GitHub",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "\"Yang, Yuhang\"",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "Illinois Alumni Association",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "Steve G",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "noreply@google.com",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "PNC ATM Receipts",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "Esri Developer Summit",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "<irecruit@slb.com",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "\"Jomashop Watch Store\"",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "\"The University Group (Do Not Reply)\"",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "kyau87@illinois.edu",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "UI Alumni Alliance and Illinois Connection\r\n",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "toefl@ets.org",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "Ebates Birthday ",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "\"Bloomingdale's Team\"",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "\"Bon-Ton Beauty\"",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "\"Leslie Oster\"",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "ETS",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "\"Macy's Beauty\"",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "\"Coach by Invitation\"",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "Lu Jin",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "Xiaolu Qi",
+"target": "Xiaolu",
+"value": 6
+},
+{
+"source": "\"Venmo\"",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "Anh Dinh",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "\"Will from Kaggle\"",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "\"Jomashop Deals\"",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "Origins Ratings from Bizrate",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "\"Walter from Kaggle\"",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "Sephora Beauty Insider ",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "\"NORDSTROM BEAUTY\"",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "\"Graduate Admissions \"",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "\"Jomashop Events\"",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "\"Cisco Webex\"",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "\"Chowbus\"",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "\"Yelp\"",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "\"service@paypal.com\"",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "Chaoran Wang",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "Xiaolu Qi via LinkedIn",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "coursehelpercn@gmail.com",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "snapshot-emails@google.com",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "Walt Disney Studios Home Entertainment",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "Google Staffing",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "Jinda Han",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "\"Nike.com\"",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "welcome@overleaf.com",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "University of Illinois - USFSCO",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "noreply@uillinois.edu",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "\"Walt Disney Pictures\"",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "\"Steam\"",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "lancome-usa",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "Clinique Ratings from Bizrate",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "\"Star Wars\"",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "YicongY",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "\"OpenTable | Signature Room at the 95th Reservations\"",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "\"Megan from Kaggle\"",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "Jaimie Lee",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "Marissa Brush",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "\"Windows\"",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "\"shopDisney  |  Disney store\"",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "Ebates Member Services",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "PNCBank_Transfers@pnc.com",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "Ebates In-Store Cash Back",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "Bizrate Rewards ",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "\"bonton.com\"",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "PNC Alert",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "Dropbox",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "Jeannie from edX",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "Quizlet News",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "H&M",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "\"Nordstrom Customer Care\" \r\n   ",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "\"Rensselaer Polytechnic Institute\"",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "\"Zhonghua Zheng (via Google Drive)\"",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "StudentUniverse",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "\"Rachael from Kaggle\"",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "Chowbus",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "University of Illinois at Urbana-Champaign",
+"target": "Xiaolu",
+"value": 4
+},
+{
+"source": "\"Starbucks\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Groupon Getaways",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Google Cloud Platform Support",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"AMC Theatres\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Groupon Goods",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Google Cloud Support",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Platform Notifications",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Anh Dinh\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Xiaolu Qi (via Google Drive)\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Northwestern Pritzker Law | MSL Program\"\r\n",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Google Eng Intern Program (no reply)\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Google Cloud Platform, Firebase, and APIs\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Amjad from Repl.it\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"UMaine Graduate School\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Overleaf\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "The Retreat at Illinois",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "ColourPop Cosmetics",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Lina Vera Vega\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Google Forms",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Microsoft Invitations",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Twitter University Recruiting\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Groupon Deals of the Day",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Baohe Zhang (via Google Docs)\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "user_inquiries@origins.com",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Jomashop Black Friday\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "ShopRunner",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Rue La La VIP\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Kaggle Administrator",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "team@pocketpoints.com",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Disney Apps & Games\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "travelatmydesk@notifications.amexgbt.com",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"HackerRank Team\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"TwitterRecruiting\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "American Express Global Business Travel",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Twitter Ads API Program\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\" Twitter University Recruiting\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "International Student and Scholar Services\r\n",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"puma\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "shuoyan1217@email.referral-mail.com",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Zhang, Baohe\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "University Recruiting",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "University of Illinois Alumni Alliance",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Wendy from Kaggle\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Facebook Recruiting\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Ebates Cyber Monday",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "customerservice@puma.com",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Visa University Recruiting",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "HK-McDonalds",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Xiang (via Google Drive)\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Data Structures Course Team\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Twitter Recruiting",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Tanqiu Liu",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "kevina.malonethomas@jpmorgan.com",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "College of ACES Alumni Association",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "isss-tops@illinois.edu",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Registrations@info.slb.com",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Cory Busboom",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "bc zhang",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "John Deere Recruiting",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Google Compute Engine Quota Support",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "University Group Leasing Department",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"StarWars.com\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Hiton Honors\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "messenger@webex.com",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Carly Antosh",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "cantosh@achliving.com",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Evernote Team\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Grammarly\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Place at 117, The\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "PLAY! by SEPHORA ",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "ZUAA Champaign",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Walmart Grocery",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Chenxing Wu",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Warren Thomas\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "customerservice@studentuniverse.com",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Shopper Approved\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "International Student and Scholar Services",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Conservice EDE\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Walmart Surveys",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Google Flights",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "no-reply@costco.com",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Educational Testing Service",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "mariamc9@illinois.edu",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Place at 117",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"JomaShop.com\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Dealmoon",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Cisco Webex",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"kate spade new york\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Airbnb Co-Founders - Brian Chesky, Joe Gebbia and Nathan Blecharczyk\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "The Gmail Team",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"=?utf-8?B?5Y+k5Lyg6ZGr?=\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Texas A&M Landscape Architecture & Urban Planning",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "University of Illinois Alumni Alliance and Illinois Connection\r\n",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"ABC.com\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Disney Consumer Products\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"NORDSTROM RACK | HauteLook\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Computer Architecture Course Team\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "The Original MakeUp Eraser",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "<ceair_service@ceair.com",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Lord & Taylor",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Dan from Kaggle\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Bon-Ton Rewards\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Esri",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Ben from Kaggle\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Swarnadeep Saha",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Microsoft",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Shoreline Sightseeing\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Ticketmaster Customer Support\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "FusionWifi",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Merge",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Costco",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Jaimie Lee\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Microsoft =?gb2312?b?1cq7p83FttM=?=\r\n",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Atlassian Bitbucket\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"SHL On Demand\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Marvel Entertainment\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"\\\"Ebates\\\"\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Vimeo",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "J Turner Research",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Steam Support\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Illinois Graduate Admissions\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "<yuyanghaam@sina.com",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Andrew Lindsey",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Macy's Shoes\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"MAC Select Membership\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Olivia from Quizlet",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Cal Poly College of Business\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "<noreply@VictoriasSecret.com",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "unify@ets.org",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"Qi Zhu (via Google Docs)\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Chenxi Chen",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "\"\\\"Jamie Ballinger, University of Maine Graduate School\\\"\"",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "Ebates Sweepstakes",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "CustomerCare@origins.com",
+"target": "Xiaolu",
+"value": 2
+},
+{
+"source": "CITL-EPI",
+"target": "Xiaolu",
+"value": 2
+}
+]
+}
